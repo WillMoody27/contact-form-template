@@ -1,1 +1,1 @@
-# contact-form-template HTML & Pure CSS3
+# newsletter-subscription-template HTML & Pure CSS3
