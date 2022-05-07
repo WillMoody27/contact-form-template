@@ -208,11 +208,16 @@ input[type="email"]
         align-items: center;
     }
 }
-.cta-one-message-foot {
+.cta-one-message-foot a {
+    text-decoration: none;
     margin: 1rem 0;
     color: #fff;
     font-size: 1.2rem;
     font-weight: bold;
+    transition: .25s ease-in-out;
+}
+.cta-one-message-foot a:hover {
+    color: #0088ff;
 }
 .cta-section-ty {
     top: 35%;
